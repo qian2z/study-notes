@@ -85,7 +85,7 @@
 |Add Distinct Elements|`$addToSet`|
 |Remove First or Last Element|`$pop`|
 |Remove All Elements with Matched Query|`$pull`|
-|Add An Element`$push`|
+|Add An Element|`$push`|
 <!--stackedit_data:
-eyJoaXN0b3J5IjpbNjMwMjQxNjUzXX0=
+eyJoaXN0b3J5IjpbMjQ3MTE4MTU5LDYzMDI0MTY1M119
 -->
